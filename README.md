@@ -8,30 +8,30 @@ O exercício foi resolvido com sucesso.
 
 # Teste 1
 
-//Digitando os parametros
-Digite o primeiro parâmetro
-30
-Digite o segundo parâmetro
-10
-//Mostra alerta
-O segundo parâmetro deve ser maior que o primeiro
+//Digitando os parametros  
+Digite o primeiro parâmetro  
+30  
+Digite o segundo parâmetro  
+10  
+//Mostra alerta  
+O segundo parâmetro deve ser maior que o primeiro  
 
 # Teste 2
 
-//Digitando os parametros
-Digite o primeiro parâmetro
-20
-Digite o segundo parâmetro
-28
-//Output
-Imprimindo o número 0
-Imprimindo o número 1
-Imprimindo o número 2
-Imprimindo o número 3
-Imprimindo o número 4
-Imprimindo o número 5
-Imprimindo o número 6
-Imprimindo o número 7
-Imprimindo o número 8
+//Digitando os parametros  
+Digite o primeiro parâmetro  
+20  
+Digite o segundo parâmetro  
+28  
+//Output  
+Imprimindo o número 0  
+Imprimindo o número 1  
+Imprimindo o número 2  
+Imprimindo o número 3  
+Imprimindo o número 4  
+Imprimindo o número 5  
+Imprimindo o número 6  
+Imprimindo o número 7  
+Imprimindo o número 8  
 
 
